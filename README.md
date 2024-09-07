@@ -21,6 +21,25 @@ This project combines cutting-edge AI technologies to provide users with a uniqu
   - ESRGAN_4x: Upscaling images from 512p to 2048p.
   - VGGNet: Powering our recommendation system based on user's past purchases.
   - LoRA: Custom-trained models for specific clothing items and larger-scale catalog training.
+ 
+## Project Flow Charts
+
+- **Features Flow Diagram**
+
+![image](https://github.com/user-attachments/assets/edd2958c-3760-4073-a17b-2193da10af71)
+
+- **Tech Stack Bird's eye view**
+
+![image](https://github.com/user-attachments/assets/49b18047-4c75-4781-a595-f178a0ab8d3c)
+
+- **LLM Working**
+
+![image](https://github.com/user-attachments/assets/3ad2e194-8d67-49b5-9fa8-efb144ae8e8f)
+
+- **User - AI Features**
+
+![image](https://github.com/user-attachments/assets/f21affb8-fa53-442b-ab5f-8a54e20a8358)
+
 
 ## Project Features
 
